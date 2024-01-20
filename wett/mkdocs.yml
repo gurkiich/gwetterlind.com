@@ -1,2 +1,16 @@
 site_name: Gustav Wetterlind
 site_url: https://www.gwetterlind.com
+
+theme:
+  name: material
+  palette:
+   primary: blue
+   accent: blue
+
+  features:
+  - navigation.indexes
+  - navigation.tabs
+  - navigation.top
+
+plugins:
+  - search
