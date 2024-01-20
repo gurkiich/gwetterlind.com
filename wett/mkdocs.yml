@@ -4,7 +4,7 @@ site_url: https://www.gwetterlind.com
 theme:
   name: material
   palette:
-   primary: blue
+   primary: purple
    accent: blue
 
   features:
